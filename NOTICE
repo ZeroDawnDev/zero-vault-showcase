@@ -1,0 +1,45 @@
+# Zero Vault — Legal & Attribution Notice
+
+Copyright (c) 2026 ZeroDawn Development.
+
+## Project Ownership
+
+Zero Vault is a personal finance management software project developed under the ZeroDawn identity.
+
+This public repository exists to showcase the project's purpose, architecture, engineering methodology, design decisions, and development progress.
+
+## Source Code
+
+The actual application implementation is maintained separately in a private repository.
+
+The publication of this showcase does not grant permission to access, reproduce, distribute, or commercially use the private implementation.
+
+## Third-Party Technologies
+
+Zero Vault uses or is designed around technologies developed by their respective owners, including:
+
+- React
+- TypeScript
+- Python
+- FastAPI
+- SQLite
+
+All third-party trademarks and product names belong to their respective owners.
+
+Mentioning a technology does not imply endorsement or affiliation.
+
+## Demonstration Materials
+
+Screenshots, diagrams, and sample financial records are intended for demonstration purposes.
+
+Any illustrative financial data should not be interpreted as actual financial transactions or financial advice.
+
+## Financial Information Disclaimer
+
+Zero Vault is a software development project for personal financial organization.
+
+It is not a bank, financial institution, investment advisor, or payment processor.
+
+## Contact
+
+For questions regarding project materials, licensing, or collaboration, contact the repository owner through the project's GitHub profile.
